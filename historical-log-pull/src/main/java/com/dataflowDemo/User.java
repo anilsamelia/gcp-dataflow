@@ -1,4 +1,4 @@
-package com.davita.log;
+package com.dataflowDemo;
 
 import java.util.List;
 import java.util.stream.Collectors;

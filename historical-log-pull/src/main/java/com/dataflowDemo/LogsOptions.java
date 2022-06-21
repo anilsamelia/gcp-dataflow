@@ -1,4 +1,4 @@
-package com.davita.log;
+package com.dataflowDemo;
 
 import org.apache.beam.sdk.options.Default;
 import org.apache.beam.sdk.options.Description;

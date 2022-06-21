@@ -2,11 +2,11 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>com.davita.log</groupId>
-	<artifactId>historical-log-pull</artifactId>
+	<groupId>com.dataflowDemo</groupId>
+	<artifactId>DataflowDemo</artifactId>
 	<packaging>jar</packaging>
 	<version>1.0-SNAPSHOT</version>
-	<name>historical-log-pull</name>
+	<name>DataflowDemo</name>
 	<url>http://maven.apache.org</url>
 	<properties>
 		<maven.compiler.source>11</maven.compiler.source>
