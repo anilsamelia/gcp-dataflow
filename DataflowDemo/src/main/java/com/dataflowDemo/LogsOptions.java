@@ -15,12 +15,12 @@ import org.apache.beam.sdk.options.PipelineOptions;
 public interface LogsOptions extends PipelineOptions {
 
 	@Description("Source Project Name")
-	@Default.String("mw-data-analytics-sandbox")
+	@Default.String("my-project-id")
 	String getProjectId();
 	void setProjectId(String projectId);
 
 	@Description("Output BQ table to write results to")
-	@Default.String("mw-data-analytics-sandbox")
+	@Default.String("my-project-id")
 	String getSinkProjectId();
 	void setSinkProjectId(String sinkProjectId);
 
